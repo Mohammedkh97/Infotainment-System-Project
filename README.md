@@ -56,7 +56,7 @@ Follow these steps to run the application on **Raspbian OS** for Raspberry Pi 5:
 │   ├── 📁 image.zip
 ├── 📁 Source code
 │   ├── mainApp.py
-│   ├── Dashboard_Structure(GUI).md
+│   ├── README.md
 ├── 📁 Hardware
 │   ├── schematics.pdf
 │   ├── components_list.md
